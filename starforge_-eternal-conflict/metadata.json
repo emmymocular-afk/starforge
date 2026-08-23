@@ -1,0 +1,6 @@
+{
+  "name": "Starforge: Eternal Conflict",
+  "description": "A high-octane space combat simulator with smooth physics-based movement, diverse enemies, procedural cinematic audio system, and visual effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
